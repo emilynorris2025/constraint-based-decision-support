@@ -82,7 +82,7 @@ The model solves:
 ```text
 - maximize
 - social cohesion
-− conflict penalties
+− conflict penalties```
 
 ---
 
