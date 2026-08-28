@@ -78,11 +78,9 @@ Participants from the same group receive positive value when seated together.
 Known incompatible pairings receive a significant penalty when assigned to the same table.
 
 The model solves:
-
-```text
 - maximize
 - social cohesion
-− conflict penalties```
+− conflict penalties
 
 ---
 
