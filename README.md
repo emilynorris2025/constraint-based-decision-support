@@ -80,7 +80,7 @@ Known incompatible pairings receive a significant penalty when assigned to the s
 The model solves:
 - maximize
 - social cohesion
-− conflict penalties
+- conflict penalties
 
 ---
 
