@@ -1,0 +1,91 @@
+S.No,isAlive,name,title,"Gender (1=male, 0=female)",culture,house,isMarried,spouse,isNoble,age,isPopular
+1,1,Walder Frey,Lord of the Crossing,1,Rivermen,House Frey,1,Perra Royce,1,97,1
+2,1,Tommen Baratheon,,1,,House Baratheon,0,,0,,1
+3,0,Valarr Targaryen,Hand of the King,1,Valyrian,House Targaryen,1,Kiera of Tyrosh,1,26,1
+4,0,Joffrey Baratheon,,1,,House Baratheon,0,,0,,1
+5,1,Margaery Tyrell,Seven Kingdoms,0,Reach,House Tyrell,1,Renly Baratheon,1,22,1
+6,0,Robb Stark,,1,,House Stark,0,,0,,1
+7,1,Stannis Baratheon,,1,,House Baratheon,0,,0,,1
+8,1,Samwell Tarly,,1,Westeros,Night's Watch,0,,0,22,1
+9,0,Baelor Targaryen (son of Daeron II),Prince of Dragonstone,1,,House Targaryen,1,Jena Dondarrion,1,39,1
+10,1,Euron Greyjoy,,1,Ironborn,House Greyjoy,0,,0,,1
+11,0,Cregan Stark,Winterfell,1,Northmen,House Stark,1,Arra Norrey,1,,1
+12,1,Edmyn Tully,Riverrun,1,Rivermen,House Tully,0,,1,,1
+13,1,Arya Stark,Princess,0,Northmen,House Stark,0,,1,16,1
+14,1,Aurane Waters,master of ships,1,Valyrian,House Velaryon,0,,1,28,1
+15,1,Bran Stark,Prince of Winterfell,1,Northmen,House Stark,0,,1,15,1
+16,1,Cersei Lannister,Light of the West,0,Westerlands,House Lannister,1,Robert Baratheon,1,39,1
+17,1,Doran Martell,Prince of Dorne,1,Dornish,House Nymeros Martell,1,Mellario of Norvos,1,58,1
+18,0,Gerold Hightower,Ser,1,,House Hightower,0,,1,,1
+19,0,Janos Slynt,Lord of Harrenhal,1,,Night's Watch,0,,1,22,1
+20,1,Jorah Mormont,Ser,1,Northmen,House Mormont,1,Glover,1,51,1
+21,1,Lancel Lannister,Ser,1,,House Lannister of Casterly Rock,1,Amerei Frey,1,23,1
+22,0,Lyanna Stark,,1,Northmen,House Stark,0,,0,17,1
+23,1,Mace Tyrell,Highgarden,1,,House Tyrell,1,Alerie Hightower,1,49,1
+24,1,Melisandre,,0,Asshai,Other,0,,0,,1
+25,0,Merrett Frey,,1,Riverlands,House Frey,1,Mariya Darry,0,38,1
+26,1,Myrcella Baratheon,Princess,0,,House Baratheon of King's Landing,0,,1,15,1
+27,1,Nymeria Sand,,0,Dornishmen,House Martell,0,,0,31,1
+28,0,Oberyn Martell,Ser,1,Dornishmen,House Martell,0,,1,43,1
+29,0,Orys Baratheon,Storm's End,1,,House Baratheon,1,Argella Durrandon,1,,1
+30,0,Otto Hightower,Ser,1,,House Hightower,0,,1,,1
+31,0,Pycelle,Grand Maester,1,,House Lannister,0,,1,84,1
+32,0,Quentyn Martell,Ser,1,Dornishmen,House Martell,0,,1,19,1
+33,1,Ramsay Snow,Lord of the Hornwood,1,Northmen,House Bolton of the Dreadfort,1,Donella Hornwood,1,23,1
+34,1,Randyll Tarly,Horn Hill,1,,House Tarly,1,Melessa Florent,1,,1
+35,1,Aeron Greyjoy,Golden Storm,1,Ironmen,House Greyjoy,0,,1,36,1
+36,1,Asha Greyjoy,Black Wind,0,Ironborn,House Greyjoy,1,Erik Ironmaker,1,30,1
+37,0,Balon Greyjoy,,1,,House Greyjoy,0,,0,,1
+38,1,Benjen Stark,First Ranger,1,Northmen,House Stark,0,,1,38,1
+39,0,Brynden Rivers,Ser,1,Valyrian,House Targaryen,0,,1,77,1
+40,1,Brynden Tully,Ser,1,Rivermen,House Tully,0,,1,63,1
+41,0,Corlys Velaryon,Lord of the Tides,1,Valyrian,House Velaryon,1,Rhaenys Targaryen,1,79,1
+42,0,Criston Cole,Ser,1,Stormlands,House Cole,0,,1,48,1
+43,0,Daemon Targaryen,Commander of the City Watch,1,Valyrian,House Targaryen,1,Rhea Royce,1,49,1
+44,1,Daenerys Targaryen,Andals,0,Valyrian,House Targaryen,1,Drogo,1,21,1
+45,0,Eddard Stark,Winterfell,1,Northmen,House Stark,1,Catelyn Tully,1,36,1
+46,1,Edmure Tully,Ser,1,Rivermen,House Tully,1,Roslin Frey,1,38,1
+47,0,Gregor Clegane,Ser,1,,House Clegane,0,,1,35,1
+48,1,Illyrio Mopatis,Magister,1,Pentoshi,House Targaryen,1,Cousin to the Prince of Pentos,1,,1
+49,1,Jaime Lannister,Ser,1,Westerlands,House Lannister,0,,1,39,1
+50,0,Jon Arryn,Eyrie,1,Valemen,House Arryn,1,Jeyne Royce,1,81,1
+51,1,Jon Snow,Lord Commander of the Night's Watch,1,Northmen,House Stark,0,,1,22,1
+52,0,Kevan Lannister,Ser,1,,House Lannister,1,Dorna Swyft,1,56,1
+53,1,Mance Rayder,,1,Free folk,Other,0,,0,,1
+54,1,Roose Bolton,Dreadfort,1,Northmen,House Bolton,1,Bethany Ryswell,1,45,1
+55,0,Renly Baratheon,Lord Paramount of the Stormlands,1,Stormlands,House Baratheon,1,Margaery Tyrell,1,22,1
+56,1,Theon Greyjoy,green lands,1,Ironmen,House Greyjoy,0,,1,27,1
+57,1,Sansa Stark,Princess,0,Northmen,House Stark,1,Tyrion Lannister,1,19,1
+58,0,Tywin Lannister,Casterly Rock,1,,House Lannister,1,Joanna Lannister,1,58,1
+59,0,Steffon Baratheon,Storm's End,1,,House Baratheon,1,Cassana Estermont,1,32,1
+60,1,Petyr Baelish,Master of coin,1,Valemen,House Baelish,1,Lysa Arryn,1,37,1
+61,0,Viserys Targaryen,Lord of the Seven Kingdoms,1,Valyrian,House Targaryen,0,,1,22,1
+62,1,Varys,Master of Whisperers,1,,Other,0,,1,,1
+63,1,Victarion Greyjoy,Lord Captain of the Iron Fleet,1,Ironborn,House Greyjoy,0,,1,37,1
+64,1,Tyrion Lannister,Hand of the King,1,,House Lannister,1,Tysha,1,32,1
+65,0,Tyland Lannister,Ser,1,,House Lannister,0,,1,,1
+66,0,Sandor Clegane,,1,,House Clegane,0,,0,30,1
+67,0,Jeor Mormont,Bear Island,1,Northmen,House Mormont,0,,1,69,1
+68,1,Qyburn,Master of whisperers,1,,House Lannister,0,,1,,1
+69,1,Rickon Stark,Prince of WinterfellHeir to Winterfell,1,Northmen,House Stark,0,,1,10,1
+70,1,Arianne Martell,Princess,0,Dornishmen,House Martell,0,,1,29,1
+71,0,Brandon Stark,,1,Northmen,House Stark,0,,0,20,1
+72,0,Rhaegar Targaryen,Prince of Dragonstone,1,Valyrian,House Targaryen,1,Elia Martell,1,24,1
+73,0,Drogo,Khal,0,Dothraki,Dothraki,1,Daenerys Targaryen,0,32,1
+74,1,Loras Tyrell,Ser,1,The Reach,House Tyrell,0,,1,23,1
+75,0,Luwin,,1,Westeros,House Stark,0,,0,,1
+76,1,Olenna Redwyne,Highgarden,0,,House Redwyne,1,Luthor Tyrell,1,77,1
+77,0,Luthor Tyrell ,Ser,1,,House Tyrell,1,Olenna Redwyne,1,,0
+78,0,Catelyn Stark,Winterfell,0,Rivermen,House Tully,1,Eddard Stark,1,35,1
+79,0,Robert Baratheon,King,1,,House Baratheon,1,Cersei Lannister,1,,0
+80,1,Obella Sand,,0,Dornishmen,House Martell,0,,0,18,0
+81,1,Dorea Sand,,0,Dornishmen,House Martell,0,,0,14,0
+82,1,Daemon Sand,Ser,1,Dornish,House Allyrion,0,,1,,0
+83,1,Tyene Sand,,0,Dornish,House Martell,0,,0,29,0
+84,1,Joyeuse Erenford,the Crossing,0,,House Erenford,1,Walder Frey,1,23,0
+85,0,Laena Velaryon,,0,Valyrian,House Velaryon,1,Daemon Targaryen,0,27,0
+86,1,Tysha,,1,,Other,1,Tyrion Lannister,0,34,0
+87,1,Lysa Arryn,Lady of the Vale,0,Rivermen,House Tully,1,Petyr Baelish,1,34,0
+88,0,Jeyne Royce,Lady of the Vale,0,,House Royce of the Gates of the Moon,1,Jon Arryn,0,,0
+89,1,Gilly,,0,Free folk,Other,1,Craster,0,23,1
+90,0,Bethany Rosby,Lady,0,,House Rosby,1,Walder Frey,0,17,0
