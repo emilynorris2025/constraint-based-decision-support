@@ -15,7 +15,7 @@ allocation, scheduling, logistics, workforce planning, and other constraint-base
 
 The system must determine an optimal seating and invitation plan across:
 
-- 76 potential participants
+- from 1946 individuals to a manageable 90 potential participants
 - 66 available invitations
 - 9 tables
 - fixed table capacities
